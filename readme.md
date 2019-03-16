@@ -11,4 +11,4 @@ bash fakewifi.sh <br>
 -apt-get install <strong>mdk3</strong><br>
 -apt-get install <strong>crunch</strong><br>
 
-1 by iwuaizl
+1 by iwuaizl 
