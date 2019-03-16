@@ -2,7 +2,7 @@
 Creates virtual interface 'mon0' to send beacon frames to show fake APs at clients using mdk3 <br>
 
 # USAGE
-git clone https://github.com/jwuaizl/fakewifi <br>
+git clone https://github.com/iwuaizl/fakewifi <br>
 cd fakewifi/ <br>
 chmod a+rwx fakewifi.sh <br>
 bash fakewifi.sh <br>
